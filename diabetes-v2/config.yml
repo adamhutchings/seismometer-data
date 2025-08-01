@@ -12,5 +12,5 @@ other_info:
   prediction_path: "predictions.parquet"
   metadata_path: "metadata.json"
   automation_config: "automation.yml"
-log:
+otel_export:
   files: metrics.txt
